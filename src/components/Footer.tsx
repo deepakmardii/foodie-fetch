@@ -44,7 +44,7 @@ const Footer = () => {
           {/* Social Icons */}
           <div className="mt-6 flex justify-center space-x-6 sm:mt-0">
             <a
-              href=""
+              href="https://github.com/deepakmardii/foodie-fetch"
               target="_blank"
               className="text-gray-500 transition duration-500 ease-in-out hover:-translate-y-1 hover:scale-110 hover:text-white"
               title="Star on GitHub ⭐"

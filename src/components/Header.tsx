@@ -21,7 +21,7 @@ const Header = () => {
           {/* Star on GitHub btn */}
           <nav className="nav-icons flex space-x-6">
             <a
-              href=""
+              href="https://github.com/deepakmardii/foodie-fetch"
               target="_blank"
               className="github-icon rounded-lg bg-gray-700 py-2 px-2 text-white transition duration-500 ease-in-out hover:bg-amber-500 hover:text-slate-900 sm:px-4"
             >
